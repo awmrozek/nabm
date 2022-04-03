@@ -5,3 +5,4 @@ This is a PCB with leds. The leds blink according to the program on the Atmega c
 
 The project includes: Altium projects and source files for Microchip Studio.
 
+![Photo of blinker](Images/blink1.jpg)
