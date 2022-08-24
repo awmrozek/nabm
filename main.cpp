@@ -1,5 +1,6 @@
 /*
  * adamsblinkmojt1.cpp
+ * Software for christmas tree
  *
  * Created: 2022-03-25 00:23:06
  * Author : adam @ ETF
